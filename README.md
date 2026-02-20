@@ -7,6 +7,9 @@ Whether the final version becomes a full hand or a simpler gripping mechanism de
 (Project not finished yet, still in development.)
 
 (Video/ picture of working hand)
+(placeholder desines)
+<img width="2048" height="1865" alt="image" src="https://github.com/user-attachments/assets/e7b48bea-b29e-4041-97b0-5de54ba50f04" />
+
 
 ## Project Stages
 1. Concept Phase
@@ -26,9 +29,9 @@ The hand will be tested for grip strength and movement control. Adjustments will
 (final project)
 
 ## Project Structure
-´gripper-designs/´: All design versions
-´motor-design/´: Motor setup and integration
-´timeline.md´ : Development progress
+- ` gripper-designs/ ` : All design versions
+- ` motor-design/ `: Motor setup and integration
+- ` timeline/ ` : Development progress
 
 #Current Status
 - Currently working on the 3D modeling phase.
