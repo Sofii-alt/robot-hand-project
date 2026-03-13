@@ -18,7 +18,7 @@ Started with sketches on paper. Tested joint movement using a paper model to und
 
 3. 3D Modeling
 Next step is designing the fingers and palm in Solidworks. Focus is on improving joint movement and stability.
-(Picture of finished model)
+
 
 5. Motor Integration
 After printing the 3D parts, the motor system will be connected and controlled using the Raspberry Pi 5.
