@@ -40,6 +40,7 @@
   - Changed joint design:
     - Instead of symmetric joint holes on both sides, one side now has two holes and the connecting part has one elongated slot
     - Allows a small steel screw to pass through and be tightened from both sides
+(picture)
 
 ---
 ## Phase 4
@@ -51,6 +52,7 @@
   - First print also failed at the string anchor point
     - Fixed by redesigning it as a full through-hole
     - String now shares the same anchor point as the rubber band
+(picture)
 
 ---
 ## Phase 5
@@ -70,3 +72,4 @@
     - Prevents collision and improves grip range
   - Next consideration:
     - Ensure screw placement has enough clearance and does not interfere with motion
+(picture)
