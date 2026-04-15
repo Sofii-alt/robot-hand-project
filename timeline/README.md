@@ -31,4 +31,42 @@
 
 ---
 ## Phase 3
-- Started 3D modeling in Solidworks
+- Started 3D modeling in Fusion
+- Problems / decisions:
+  - Redesigned the model to make it easier to 3D print, resulting in a more rectangular structure
+  - Added grooves for the string and rubber band
+    - Rubber band groove is mainly for alignment
+    - String groove is mostly decorative but helps guiding
+  - Changed joint design:
+    - Instead of symmetric joint holes on both sides, one side now has two holes and the connecting part has one elongated slot
+    - Allows a small steel screw to pass through and be tightened from both sides
+
+---
+## Phase 4
+- Printed first finger prototype
+- Problems / improvements:
+  - Initially did not account for required clearance in the joints for movement
+  - Movement space was too limited, causing stiffness
+  - Increased the joint slope/clearance for smoother motion
+  - First print also failed at the string anchor point
+    - Fixed by redesigning it as a full through-hole
+    - String now shares the same anchor point as the rubber band
+
+---
+## Phase 5
+- Printed and assembled fingers
+- Problems / observations:
+  - Screws holding the joints tended to loosen over time
+    - Plan: add glue or locking method between joints
+  - Joint tightness:
+    - Movement is surprisingly smooth and responsive despite tight tolerances
+    - Does not overextend toward the rubber band side (except the smallest joint, by design)
+    - Intended function: enable pinching/gripping small objects
+  - Design iteration:
+    - Initially switched to a 2-finger design for pinching
+    - However, finger collision limited usable object sizes
+    - Decided to return to a 3-finger layout:
+    - Two fingers on one side, one on the other
+    - Prevents collision and improves grip range
+  - Next consideration:
+    - Ensure screw placement has enough clearance and does not interfere with motion
