@@ -1,1 +1,1 @@
-- Here are all the designes that have been done
+- Here are all the designes that have been done for the gripper
